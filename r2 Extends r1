@@ -1,0 +1,16 @@
+package Day3;
+
+public class r2extendsr1 {
+		public void j1(int o, String q) 
+		{
+			System.out.println("overriding method");
+
+		}
+		public static void main(String[] args) {
+			r2extendsr1 u=new r2extendsr1();
+			u.j1(65,"sky");
+			u.j1(67, "sky");
+
+	}
+
+}
